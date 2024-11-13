@@ -1,0 +1,23 @@
+{
+    "name": "minecraft-server-ddoser",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
